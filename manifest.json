@@ -1,0 +1,19 @@
+{
+  "name": "BJJ Scoreboard",
+  "short_name": "BJJ Score",
+  "description": "Landscape scoreboard for Brazilian Jiu-Jitsu matches — points, advantages, penalties, stalling counts and match clock.",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#25272e",
+  "theme_color": "#1c1d22",
+  "lang": "en",
+  "categories": ["sports", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
